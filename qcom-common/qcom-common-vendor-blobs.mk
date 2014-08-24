@@ -37,7 +37,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/qcom-common/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/sony/qcom-common/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
     vendor/sony/qcom-common/proprietary/vendor/lib/libllvm-a3xx.so:system/vendor/lib/libllvm-a3xx.so \
-    vendor/sony/qcom-common/proprietary/vendor/lib/libllvm-arm.so:system/vendor/lib/libllvm-qcom.so \
+    vendor/sony/qcom-common/proprietary/vendor/lib/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so \
     vendor/sony/qcom-common/proprietary/vendor/lib/libOpenCL.so:system/vendor/lib/libOpenCL.so \
     vendor/sony/qcom-common/proprietary/vendor/lib/libOpenVG.so:system/vendor/lib/libOpenVG.so \
     vendor/sony/qcom-common/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
